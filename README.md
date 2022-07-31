@@ -21,4 +21,4 @@ Uzai, however, uses [A* path finding](https://en.wikipedia.org/wiki/A*_search_al
 3. Run as you would any PC videogame</br>
   _Note: Only Windows compatable_
 
-[![IMAGE ALT TEXT](https://github.com/Alizarosebud3/Gone-Rouge/blob/master/GoneRogueGamePlay.gif)](https://youtu.be/k2xo6NWnljE?t=15392)
+[![Gone Rogue Gamplay Link](https://github.com/Alizarosebud3/Gone-Rouge/blob/master/GoneRogueGamePlay.gif)](https://youtu.be/k2xo6NWnljE?t=15392)
