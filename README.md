@@ -20,3 +20,5 @@ Uzai, however, uses [A* path finding](https://en.wikipedia.org/wiki/A*_search_al
 2. Install the application onto your device
 3. Run as you would any PC videogame</br>
   _Note: Only Windows compatable_
+
+![https://youtu.be/k2xo6NWnljE?t=15392](https://github.com/Alizarosebud3/Gone-Rouge/blob/master/GoneRogueGamePlay.gif)
